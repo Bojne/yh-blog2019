@@ -49,10 +49,9 @@ const IndexPage = ({
   <Layout>
     <Wrapper>
       <Hero>
-        <h1>Hi.</h1>
+        <h1>👋Hi.</h1>
         <p>
-          I&apos;m John Doe, a Senior UX Developer with five years of industry experience, specializing in developing
-          React apps with the best UX users can get.
+          I&apos;m Yuehan Huang, a Junior Data Science Intern at Netlify, student at Minerva Schools. Writing is part of my learning process, and you can view my thoughts in this blog!
         </p>
         <Link to="/contact">
           <Button big>
