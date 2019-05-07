@@ -51,7 +51,7 @@ const IndexPage = ({
       <Hero>
         <h1>👋 Welcome!</h1>
         <p>
-          I&apos;m Yuehan, a student at Minerva School. This summer I work as Data Science Intern at Netlify. Realizing writing can be really reflective part of my learning process, I started to blog my thoughts here as learner.  
+          Writing conducts my thoughts which makes me more self-aware and confident. I&apos;m Yuehan; student at Minerva School and Data Science Intern at Netlify. 
         </p>
         <Link to="/contact">
           <Button big>
