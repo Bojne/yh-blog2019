@@ -49,9 +49,9 @@ const IndexPage = ({
   <Layout>
     <Wrapper>
       <Hero>
-        <h1>👋 Welcome!</h1>
+        <h1>Yueh Han's Blog</h1>
         <p>
-          Writing conducts my thoughts which makes me more self-aware and confident. I&apos;m Yuehan; student at Minerva School and Data Science Intern at Netlify. 
+          This blog is super random, but wait and see! Yueh Han is working on it.   
         </p>
         <Link to="/contact">
           <Button big>
