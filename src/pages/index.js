@@ -51,7 +51,7 @@ const IndexPage = ({
       <Hero>
         <h1>Yueh Han's Blog</h1>
         <p>
-          Ideas, Thoughts, Decisions, Perspective. 
+          Ideas, Thoughts, Decisions, Perspectives. 
         </p>
         <Link to="/contact">
           <Button big>
